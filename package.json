@@ -1,0 +1,25 @@
+{
+  "name": "staff-ai-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "hyperframes": "hyperframes",
+    "preview": "hyperframes preview",
+    "render": "hyperframes render"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naimdeyn/Staff-AI-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naimdeyn/Staff-AI-/issues"
+  },
+  "homepage": "https://github.com/naimdeyn/Staff-AI-#readme",
+  "dependencies": {
+    "hyperframes": "^0.8.225"
+  }
+}
